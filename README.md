@@ -1,16 +1,10 @@
-# project
+# Academy Management
 
-A new Flutter project.
+A new Flutter Desktop project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This project is a Desktop Application using flutter
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![MacBook Pro 16_ - 2](https://user-images.githubusercontent.com/87647184/179367570-49207961-86fc-47d8-9566-783ebf67f916.png)
