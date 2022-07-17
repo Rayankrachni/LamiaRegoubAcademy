@@ -11,10 +11,11 @@ the main goal of this application is to save the imporatant information of goupe
 ### Main Features
 
 - Add/Edit/Delete group; craft; learner
+- Generate Envoices for each grp and some calculate  are affected
 - local data base used for the storage
 - Provider for the state management
 
-
+## Some Sceerns are shown below 
 ![Login](https://user-images.githubusercontent.com/87647184/179388105-755e379e-223e-4280-bc6a-e2ee3ebf08cf.PNG)
 ![homepage](https://user-images.githubusercontent.com/87647184/179388108-f1a1913a-4101-4e01-80bb-7f12af45ed4d.PNG)
 ![Fillier](https://user-images.githubusercontent.com/87647184/179388110-48e49880-c6e3-4232-8f1a-3ff94b44ee4f.PNG)
