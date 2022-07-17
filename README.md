@@ -4,7 +4,15 @@ A new Flutter Desktop project.
 
 ## Description
 
-This project is a Desktop Application using flutter
+### This project is a Desktop Application using flutter
+
+the main goal of this application is to save the imporatant information of goupes and learners.
+
+### Main Features
+
+- Add/Edit/Delete group; craft; learner
+- local data base used for the storage
+- Provider for the state management
 
 
 ![Login](https://user-images.githubusercontent.com/87647184/179388105-755e379e-223e-4280-bc6a-e2ee3ebf08cf.PNG)
